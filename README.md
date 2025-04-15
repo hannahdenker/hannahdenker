@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannahdenker
 - 👀 I’m interested in early childhood education quantitative research, especially as it is related to ECE policy. 
-- 🌱 I’m currently a Postdoctoral Research Associate at the University of Virginia's School of Education. 
+- 🌱 I’m currently a Research Assistant Professor at the University of Arkansas, Fayetteville. I work in the Office of Education Policy in the Department of Education Reform.  
 - 📫 How to reach me ... Email: hdenker@uark.edu  Twitter: @hannah_denker  Website: https://hannahdenker.github.io 
 
 <!---
